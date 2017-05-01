@@ -1,0 +1,139 @@
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\ApplicationInsights.config
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\csc.exe
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\System.Collections.Immutable.dll
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\System.Reflection.Metadata.dll
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\vbc.exe
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\VBCSCompiler.exe
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\VBCSCompiler.exe.config
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\ctrlArchivos.dll.config
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\ctrlArchivos.dll
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\ctrlArchivos.pdb
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.Agent.Intercept.dll
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.DependencyCollector.dll
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.Web.dll
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.WindowsServer.dll
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.ApplicationInsights.dll
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.DependencyCollector.xml
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.Web.xml
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.WindowsServer.xml
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.ApplicationInsights.xml
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\obj\Debug\ctrlArchivos.csprojResolveAssemblyReference.cache
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\obj\Debug\ctrlArchivos.dll
+I:\Users\DragonHearth\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\obj\Debug\ctrlArchivos.pdb
+i:\users\dragonhearth\documents\visual studio 2015\Projects\ctrlArchivos\ctrlArchivos\obj\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+i:\users\dragonhearth\documents\visual studio 2015\Projects\ctrlArchivos\ctrlArchivos\obj\Debug\ctrlArchivos.csproj.ResolveComReference.cache
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\ApplicationInsights.config
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\roslyn\csc.exe
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\roslyn\vbc.exe
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\roslyn\VBCSCompiler.exe
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\ctrlArchivos.dll.config
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\ctrlArchivos.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\ctrlArchivos.pdb
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\Microsoft.AI.Web.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\Microsoft.AI.Web.xml
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\obj\Debug\ctrlArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\obj\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\obj\Debug\ctrlArchivos.csproj.ResolveComReference.cache
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\obj\Debug\ctrlArchivos.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos21 marzo\ctrlArchivos\obj\Debug\ctrlArchivos.pdb
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\ApplicationInsights.config
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\csc.exe
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\vbc.exe
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\VBCSCompiler.exe
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\ctrlArchivos.dll.config
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\ctrlArchivos.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\ctrlArchivos.pdb
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.Web.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.Web.xml
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\obj\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\obj\Debug\ctrlArchivos.csproj.ResolveComReference.cache
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\obj\Debug\ctrlArchivos.dll
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\obj\Debug\ctrlArchivos.pdb
+C:\Users\Saso\Documents\Visual Studio 2015\Projects\ctrlArchivos\ctrlArchivos\obj\Debug\ctrlArchivos.csprojResolveAssemblyReference.cache
+H:\iup\ctrlArchivos\ctrlArchivos\bin\ApplicationInsights.config
+H:\iup\ctrlArchivos\ctrlArchivos\bin\roslyn\csc.exe
+H:\iup\ctrlArchivos\ctrlArchivos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\iup\ctrlArchivos\ctrlArchivos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\iup\ctrlArchivos\ctrlArchivos\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\iup\ctrlArchivos\ctrlArchivos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\iup\ctrlArchivos\ctrlArchivos\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\iup\ctrlArchivos\ctrlArchivos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\iup\ctrlArchivos\ctrlArchivos\bin\roslyn\System.Collections.Immutable.dll
+H:\iup\ctrlArchivos\ctrlArchivos\bin\roslyn\System.Reflection.Metadata.dll
+H:\iup\ctrlArchivos\ctrlArchivos\bin\roslyn\vbc.exe
+H:\iup\ctrlArchivos\ctrlArchivos\bin\roslyn\VBCSCompiler.exe
+H:\iup\ctrlArchivos\ctrlArchivos\bin\roslyn\VBCSCompiler.exe.config
+H:\iup\ctrlArchivos\ctrlArchivos\bin\ctrlArchivos.dll.config
+H:\iup\ctrlArchivos\ctrlArchivos\bin\ctrlArchivos.dll
+H:\iup\ctrlArchivos\ctrlArchivos\bin\ctrlArchivos.pdb
+H:\iup\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.Agent.Intercept.dll
+H:\iup\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.DependencyCollector.dll
+H:\iup\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\iup\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\iup\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.Web.dll
+H:\iup\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.WindowsServer.dll
+H:\iup\ctrlArchivos\ctrlArchivos\bin\Microsoft.ApplicationInsights.dll
+H:\iup\ctrlArchivos\ctrlArchivos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\iup\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.DependencyCollector.xml
+H:\iup\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\iup\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.Web.xml
+H:\iup\ctrlArchivos\ctrlArchivos\bin\Microsoft.AI.WindowsServer.xml
+H:\iup\ctrlArchivos\ctrlArchivos\bin\Microsoft.ApplicationInsights.xml
+H:\iup\ctrlArchivos\ctrlArchivos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\iup\ctrlArchivos\ctrlArchivos\obj\Debug\ctrlArchivos.csprojResolveAssemblyReference.cache
+H:\iup\ctrlArchivos\ctrlArchivos\obj\Debug\ctrlArchivos.csproj.ResolveComReference.cache
+H:\iup\ctrlArchivos\ctrlArchivos\obj\Debug\ctrlArchivos.dll
+H:\iup\ctrlArchivos\ctrlArchivos\obj\Debug\ctrlArchivos.pdb
